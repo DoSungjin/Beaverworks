@@ -3,7 +3,14 @@
 Template repository for Python project
 
 ## 🚀 Features
+- Train data
+()
+- Test data
+()
 
+- Columns list
+()
+- 
 ### Code Quality
 
 - black
